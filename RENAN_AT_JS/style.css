@@ -1,0 +1,24 @@
+body {
+	margin: auto;
+}
+
+
+#tabuleiro { 
+	width: 1140px;
+	height: 860px;
+	margin: auto;
+}
+
+#tabuleiro img{
+	width: 135px;
+	height: 125px;
+	float: left;
+	padding: 10px 60px 0 60px;
+	border:1px solid #021a40;
+}
+
+#btnStart {
+	display: block;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
